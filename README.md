@@ -148,7 +148,8 @@ These are rare for high schoolers and extremely impressive:
 - First tiny freelance gig  
 
 ## **Sophomore Year**
-- 2 medium software projects  
+- 2 medium software projects
+   - Full 2d pygame game  
 - 2 medium hardware projects  
 - 1–2 competitions  
 - Begin open-source involvement  
